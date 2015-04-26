@@ -4,4 +4,5 @@ ChrootDirectory %h
 X11Forwarding no
 AllowTcpForwarding no
 ForceCommand internal-sftp
+UseDNS no
 
